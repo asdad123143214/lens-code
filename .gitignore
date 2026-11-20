@@ -1,0 +1,10 @@
+__pycache__/
+.DS_Store
+*.py[cod]
+.venv/
+results/
+weights/
+third_party/
+*.pt
+*.pth
+*.safetensors

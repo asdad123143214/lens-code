@@ -1,0 +1,3 @@
+content_path,label,generator
+videos/real.mp4,0,real
+videos/generated.mp4,1,example-generator
